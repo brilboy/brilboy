@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jibs
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python and SQL autodidactly
 - 💞️ I’m looking to collaborate on Data Project
 - 📫 How to reach me on Instagram @a_jiberiel
 
