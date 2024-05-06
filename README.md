@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jibs
-- 👀 I’m passionate in Data
+- 👀 Data excites me
 - 🌱 I’m currently learning Python and SQL via YouTube
 - 💞️ I’m looking to collaborate on Data Science or Machine Learning Project
 - 📫 You can reach me @ajibrilhemdi on Instagram or linkedin.com/in/ajibrilhemdi on Linkedin
